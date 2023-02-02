@@ -8,7 +8,6 @@
   
   .cartItem {
     width: 60vw;
-    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -18,7 +17,8 @@
   }
   
   .cartItem img {
-    width: 200px;
+    width: 120px;
+    height: 120px;
   }
   
   .cartItem .description {
